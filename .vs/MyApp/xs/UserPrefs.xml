@@ -1,3 +1,14 @@
 ﻿<Properties StartupConfiguration="{CBF3829C-341E-4C83-A33E-E2D639296F6F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="COMP003A.Assignment1">
+    <Files>
+      <File FileName="COMP003A.Assignment1" Line="97" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyApp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
